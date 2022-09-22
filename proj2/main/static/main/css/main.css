@@ -37,3 +37,7 @@ li {
     margin: 20px 35%;
 }
 
+.logout {
+    display: flex;
+    padding-left:55%;
+}

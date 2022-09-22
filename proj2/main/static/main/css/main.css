@@ -1,0 +1,39 @@
+ul {
+    display: flex;
+    list-style-type: none;
+    padding-top: 10px;
+
+}
+
+li a {
+    text-decoration: none;
+    padding: 10px;
+    color: #fff;
+    transition: .5s;
+    font-size: 25px;
+}
+
+li {
+    text-decoration: none;
+    padding: 10px;
+    color: #fff;
+    transition: .5s;
+    font-size: 25px;
+}
+
+.page {
+    display: grid;
+    grid-template-rows: 15%, 80%;
+}
+
+.header{
+    background-color: #323232;
+}
+
+.content {
+    text-align: center;
+    clear: both;
+    width: 500px;
+    margin: 20px 35%;
+}
+
